@@ -1,0 +1,53 @@
+ body{
+    background-color: #cdeafa;
+}
+
+
+ .blank {
+     background-color: transparent;
+ }
+
+ .red {
+     background-color: #cd0000;
+ }
+ .black {
+     background-color: #020007;
+ }
+ .blue {
+     background-color: #2a349f;
+ }
+ .green {
+     background-color: #048c08;
+ }
+ .yellow {
+     background-color: #f7ff1e;
+ }
+
+ #palette td {
+     height: 50px;
+     width: 50px;
+     border-color: #000000;
+     border-style: solid;
+     border-width: thin;
+ }
+
+ #palette .active{
+     height: 50px;
+     width: 50px;
+     border-color: yellow;
+     border-style: solid;
+     border-width: medium;
+ }
+
+ #blockCanvas {
+     border-color: #000000;
+     border-style: solid;
+     border-width: thin;
+ }
+ #blockCanvas td {
+     height: 10px;
+     width:10px;
+     border-color: #000000;
+     border-style: solid;
+     border-width: thin;
+ }
