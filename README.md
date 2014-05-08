@@ -10,3 +10,8 @@ Simple block drawing web application created using
  * @param {Object} colorObj: the object that has getColor as a member (necessary for proper invocation of getColor).
  * @param {Function} getColor the function used to get the current color.
  * @param {HTMLElement} element the element in which to draw the block canvas
+ * 
+ 
+Click the link to see it in action 
+
+http://block-draw.vancitywebsiteservices.com/blockdrawHTML.html
